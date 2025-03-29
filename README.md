@@ -1,2 +1,2 @@
 # HyperCARE
-Road extraction
+The code will be publicly available soon.
